@@ -3,7 +3,7 @@ Handy lookup tool to check IPs or Domains against open source information sites 
 Install Python and pip install dependencies -> 
         Flask, requests, ollama, whois, 
         shodan, dotenv, os, taxii2client.v20, 
-        stix2, socket, re
+        stix2
         
 Install ollama with model qwen3:8b running locally ( can use other models by changing line 435 respectively)
 
